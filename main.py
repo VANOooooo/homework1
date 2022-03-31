@@ -127,3 +127,4 @@ if __name__ == '__main__':
         #     assert total(case[0]) == case[1]
         # except AssertionError:
         #     print(f'ERROR: Total {total(case[0])} is not equal {case[1]}')
+#hiii
